@@ -571,3 +571,4 @@
 571.  [一分钟秒懂注解](https://dreamerhome.github.io/2016/08/02/annotaion/)
 572.  [自定义View分类与流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B01%5DCustomViewProcess.md)
 573.  [Andriod分辨率适配 ”葵花宝典“](http://www.ui.cn/detail/27997.html)
+- 我的邮箱：yzytmac@163.com

@@ -1,5 +1,6 @@
 ## 自己收藏的一些关于Android的网址 ##  
-1.  [Android 6.0 新特性](http://seewhy.leanote.com/post/Android-6.0-Changes)2.  [美团技术团队博客](http://tech.meituan.com/)
+1.  [Android 6.0 新特性](http://seewhy.leanote.com/post/Android-6.0-Changes)
+2.  [美团技术团队博客](http://tech.meituan.com/)
 3.  [阿里技术团队博客](http://csrd.aliapp.com/)
 4.  [Trinea](http://www.trinea.cn/)
 5.  [最新host](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
@@ -572,4 +573,5 @@
 572.  [自定义View分类与流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B01%5DCustomViewProcess.md)
 573.  [Andriod分辨率适配 ”葵花宝典“](http://www.ui.cn/detail/27997.html)
 574.  [mobdevgroup](http://mobdevgroup.com/)
+575.  [一片枫叶的专栏](http://blog.csdn.net/qq_23547831)
 - 我的邮箱：yzytmac@163.com

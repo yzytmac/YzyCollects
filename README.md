@@ -1,5 +1,5 @@
-##自己收藏的一些关于Android的网址##
-- 如果觉得有用，不吝啬在右上角给我一个star。thank you！  
+## 自己收藏的一些关于Android的网址 ##
+- 如果觉得有用，不吝啬在右上角给我一个Star。thank you！  
 1.  [Android 6.0 新特性](http://seewhy.leanote.com/post/Android-6.0-Changes)
 2.  [美团技术团队博客](http://tech.meituan.com/)
 3.  [阿里技术团队博客](http://csrd.aliapp.com/)

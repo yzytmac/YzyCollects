@@ -579,6 +579,6 @@
 578.  [CSDN-Android知识库](http://lib.csdn.net/knowledge/340)
 579.  [Android精品博客](http://www.cnblogs.com/cate/android/)
 580.  [Android100](http://tools.android100.org)
-581.  [Java基础/Android同步笔记+Android面试](bbs.itheima.com/thread-223527-1-1.html)
+581.  [Java基础/Android同步笔记+Android面试](http://bbs.itheima.com/thread-223527-1-1.html)
 
 	- 我的邮箱：yzytmac@163.com

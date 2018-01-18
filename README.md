@@ -1,4 +1,4 @@
-#自己收藏的一些关于Android的网址
+##自己收藏的一些关于Android的网址##
 1.  [Android 6.0 新特性](http://seewhy.leanote.com/post/Android-6.0-Changes)
 2.  [美团技术团队博客](http://tech.meituan.com/)
 3.  [阿里技术团队博客](http://csrd.aliapp.com/)
@@ -579,5 +579,6 @@
 578.  [CSDN-Android知识库](http://lib.csdn.net/knowledge/340)
 579.  [Android精品博客](http://www.cnblogs.com/cate/android/)
 580.  [Android100](http://tools.android100.org)
+581.  [Java基础/Android同步笔记+Android面试](bbs.itheima.com/thread-223527-1-1.html)
 
 	- 我的邮箱：yzytmac@163.com

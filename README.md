@@ -590,5 +590,6 @@
 587.  [老罗Android开发](http://luo.apkbus.com/)
 588.  [Mars视频教程](http://mars.apkbus.com/)
 589.  [开发酷站](https://www.diycode.cc/sites)
+590.  [idtk](http://www.idtkm.com/)
 
 	- 我的邮箱：yzytmac@163.com

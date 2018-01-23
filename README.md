@@ -592,7 +592,7 @@
 589.  [开发酷站](https://www.diycode.cc/sites)
 590.  [idtk](http://www.idtkm.com/)
 591.  [移动开发前线](http://mobilefrontier.github.io/)
-592.  [](http://weishu.me/)
+592.  [唯术](http://weishu.me/)
 593.  [](http://notes.stay4it.com/)
 594.  [](http://www.devtf.cn/)
 595.  [](https://blog.piasy.com/)

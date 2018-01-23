@@ -593,7 +593,7 @@
 590.  [idtk](http://www.idtkm.com/)
 591.  [移动开发前线](http://mobilefrontier.github.io/)
 592.  [唯术](http://weishu.me/)
-593.  [](http://notes.stay4it.com/)
+593.  [stay的博客](http://notes.stay4it.com/)
 594.  [](http://www.devtf.cn/)
 595.  [](https://blog.piasy.com/)
 596.  [](http://blog.zhaiyifan.cn/)

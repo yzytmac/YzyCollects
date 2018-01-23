@@ -599,7 +599,7 @@
 596.  [zhaiyifan的博客](http://blog.zhaiyifan.cn/)
 597.  [马飞的博客](http://mafei.me/)
 598.  [stormzhang](http://stormzhang.com/)
-599.  [](https://race604.com/)
+599.  [Jlog](https://race604.com/)
 600.  [](https://drakeet.me/)
 
 	- 我的邮箱：yzytmac@163.com

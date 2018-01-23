@@ -596,7 +596,7 @@
 593.  [stay的博客](http://notes.stay4it.com/)
 594.  [开发者前线](http://www.devtf.cn/)
 595.  [piasy的博客](https://blog.piasy.com/)
-596.  [](http://blog.zhaiyifan.cn/)
+596.  [zhaiyifan的博客](http://blog.zhaiyifan.cn/)
 597.  [](http://mafei.me/)
 598.  [](http://stormzhang.com/)
 599.  [](https://race604.com/)

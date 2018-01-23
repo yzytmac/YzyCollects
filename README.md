@@ -592,5 +592,14 @@
 589.  [开发酷站](https://www.diycode.cc/sites)
 590.  [idtk](http://www.idtkm.com/)
 591.  [移动开发前线](http://mobilefrontier.github.io/)
+592.  [](http://weishu.me/)
+593.  [](http://notes.stay4it.com/)
+594.  [](http://www.devtf.cn/)
+595.  [](https://blog.piasy.com/)
+596.  [](http://blog.zhaiyifan.cn/)
+597.  [](http://mafei.me/)
+598.  [](http://stormzhang.com/)
+599.  [](https://race604.com/)
+600.  [](https://drakeet.me/)
 
 	- 我的邮箱：yzytmac@163.com

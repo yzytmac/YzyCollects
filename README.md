@@ -605,7 +605,7 @@
 602.  [trinea](http://www.trinea.cn/)
 603.  [胡凯](http://hukai.me/)
 604.  [技术小黑屋](https://droidyue.com/)
-605.  []()
+605.  [吴小龙同学](http://wuxiaolong.me/categories/)
 606.  []()
 607.  []()
 

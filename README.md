@@ -604,7 +604,7 @@
 601.  [codekk](http://a.codekk.com/)
 602.  [trinea](http://www.trinea.cn/)
 603.  [胡凯](http://hukai.me/)
-604.  []()
+604.  [技术小黑屋](https://droidyue.com/)
 605.  []()
 606.  []()
 607.  []()

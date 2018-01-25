@@ -612,7 +612,7 @@
 609.  [优秀Android源码](https://github.com/hehonghui/android-tech-frontier/tree/master/the-bad-guys)
 610.  [Android Home](https://github.com/hehonghui/android-tech-frontier/wiki)
 611.  [从零开始学Android](https://www.2cto.com/kf/201602/488518.html)
-612.  []()
+612.  [Android高逼格Menu](https://www.toutiao.com/a6337202782201921793/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=mobile_qq&iid=4553086088&utm_medium=toutiao_android)
 613.  []()
 614.  []()
 615.  []()

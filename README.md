@@ -620,6 +620,6 @@
 617.  [ian](http://www.icodelogic.com/?cat=80)
 618.  [那些酷炫的RecyclerView开源库整理](https://www.jianshu.com/p/154891851fe2)
 619.  [叉叉哥的BLOG](http://xxgblog.com/)
-620.  []()
+620.  [安卓源码](http://www.androidym.com/portal.php)
 621.  []()
 	- 我的邮箱：yzytmac@163.com

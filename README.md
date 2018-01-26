@@ -1,6 +1,7 @@
 ## 自己收藏的一些关于Android的网址 ##
 - 如果觉得有用，不吝啬在右上角给我一个Star。谢谢！！  
 ![](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/images/star.png)  
+0.  [首先当然是我自己的博客啦](https://www.longqi.cf/Archive/)
 1.  [Android 6.0 新特性](http://seewhy.leanote.com/post/Android-6.0-Changes)
 2.  [美团技术团队博客](http://tech.meituan.com/)
 3.  [阿里技术团队博客](http://csrd.aliapp.com/)

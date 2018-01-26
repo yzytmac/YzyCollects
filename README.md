@@ -618,7 +618,7 @@
 615.  [Git教程](http://git.oschina.net/progit/)
 616.  [RN中文网](https://reactnative.cn/)
 617.  [ian](http://www.icodelogic.com/?cat=80)
-618.  []()
+618.  [那些酷炫的RecyclerView开源库整理](https://www.jianshu.com/p/154891851fe2)
 619.  []()
 620.  []()
 621.  []()

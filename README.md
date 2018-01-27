@@ -624,5 +624,5 @@
 620.  [安卓源码](http://www.androidym.com/portal.php)
 621.  [好博客](https://www.longqi.cf/Archive/)
 622.  [jianjin33](https://jianjin33.github.io/)
-623.  []()
+623.  [何以诚的专栏](http://blog.csdn.net/u013022222)
 	- 我的邮箱：yzytmac@163.com

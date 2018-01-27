@@ -623,4 +623,6 @@
 619.  [叉叉哥的BLOG](http://xxgblog.com/)
 620.  [安卓源码](http://www.androidym.com/portal.php)
 621.  [好博客](https://www.longqi.cf/Archive/)
+622.  [jianjin33](https://jianjin33.github.io/)
+623.  []()
 	- 我的邮箱：yzytmac@163.com

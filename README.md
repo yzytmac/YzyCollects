@@ -632,4 +632,5 @@
 628.  [不学网](http://www.noxue.com/)
 629.  [chinaunix](http://blog.chinaunix.net/)
 630.  [共享资料网](http://racktom.com/)
+631.  [计蒜客](https://www.jisuanke.com/course#verified)
 	- 我的邮箱：yzytmac@163.com

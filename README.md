@@ -638,4 +638,5 @@
 634.  [萌码](www.mengma.com)
 635.  [C++博客](www.cppblog.com/prayer/archive/2010/09/06/126013.html)
 636.  [21互联](www.21hulian.com/forum.php)
+637.  [伯乐在线](blog.jobbole.com)
 	- 我的邮箱：yzytmac@163.com

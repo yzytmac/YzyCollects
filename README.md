@@ -636,4 +636,5 @@
 632.  [binkery](http://www.binkery.com/)
 633.  [安卓巴士](http://www.apkbus.com/portal.php)
 634.  [萌码](www.mengma.com)
+635.  [C++博客](www.cppblog.com/prayer/archive/2010/09/06/126013.html)
 	- 我的邮箱：yzytmac@163.com

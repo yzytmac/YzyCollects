@@ -641,7 +641,7 @@
 637.  [伯乐在线](blog.jobbole.com)
 638.  [java开源](http://www.open-open.com/lib/)
 639.  [小白基地](http://www.xiaobaijidi.net/)
-640.  []()
+640.  [大讲台](http://www.dajiangtai.com/course/list.do)
 641.  []()
 642.  []()
 643.  []()

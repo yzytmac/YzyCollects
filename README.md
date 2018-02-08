@@ -640,7 +640,7 @@
 636.  [21互联](www.21hulian.com/forum.php)
 637.  [伯乐在线](blog.jobbole.com)
 638.  [java开源](http://www.open-open.com/lib/)
-639.  []()
+639.  [小白基地](http://www.xiaobaijidi.net/)
 640.  []()
 641.  []()
 642.  []()

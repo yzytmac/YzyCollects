@@ -643,7 +643,7 @@
 639.  [小白基地](http://www.xiaobaijidi.net/)
 640.  [大讲台](http://www.dajiangtai.com/course/list.do)
 641.  [open之家](http://www.open-open.com/home/37924)
-642.  []()
+642.  [RXJava专题](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0430/2815.html)
 643.  []()
 644.  []()
 645.  []()

@@ -639,4 +639,13 @@
 635.  [C++博客](www.cppblog.com/prayer/archive/2010/09/06/126013.html)
 636.  [21互联](www.21hulian.com/forum.php)
 637.  [伯乐在线](blog.jobbole.com)
+638.  [java开源](http://www.open-open.com/lib/)
+639.  []()
+640.  []()
+641.  []()
+642.  []()
+643.  []()
+644.  []()
+645.  []()
+
 	- 我的邮箱：yzytmac@163.com
